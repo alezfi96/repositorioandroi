@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ReciclaApp</string>
+    <string name="titulo1">App ambiental</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="resiclaya">Recicla ya</string>
+    <string name="boteblanco"></string>
+    <string name="botenegro">Sirve para depositar residuos no aprovechables como papel higienico,servilletas,papeles y cartones contaminados con comida, papeles metalizados entre otros</string>
+    <string name="boteverde">sirve para depositar residuos aprovechablles como los restos de comida, desechos agricolas</string>
+    <string name="titulo7">App ambiental</string>
+    <string name="titulo8">App ambiental</string>
+    <string name="titulo9">App ambiental</string>
+    <string name="titulo10">App ambiental</string>
+    <string name="titulo11">App ambiental</string>
+    <string name="titulo12">App ambiental</string>
+    <string name="titulo13">App ambiental</string>
+    <string name="titulo14">App ambiental</string>
+    <string name="titulo15">App ambiental</string>
+</resources>
